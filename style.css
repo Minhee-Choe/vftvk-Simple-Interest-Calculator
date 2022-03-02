@@ -3,8 +3,10 @@ h1{color:grey;font-family:verdana;}
 .maindiv{
     background-color:white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
-    align: center;
+    text-align: center;
+    margin: 0 auto;
 }
+footer{text-align: center;}
